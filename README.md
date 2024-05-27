@@ -1,4 +1,4 @@
-Creating interactive dashboard with Shiny inR to explore census data to figure out what trends in different demographics I can find and tell the marketing team my findings.
+Creating interactive dashboard with Shiny to explore census data to figure out what trends in different demographics I can find and tell the marketing team my findings.
 
 The UCI Adult dataset is used to create a dashboard that gives insight on the following questions:
 
